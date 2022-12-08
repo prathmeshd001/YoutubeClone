@@ -5,4 +5,4 @@ You can play, open , search Youtube videos and Youtube channels
 
 only 500 responces Allowed
 
-link: https://aesthetic-conkies-671f90.netlify.app/
+link: https://psd-yourtube.netlify.app/
